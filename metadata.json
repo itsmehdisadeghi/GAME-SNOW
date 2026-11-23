@@ -1,0 +1,8 @@
+{
+  "name": "Hearthplow",
+  "description": "A cozy 3D isometric snow-plowing game where you clear alpine village roads, rescue snowed-in cottages, bank snow into thermal grates for combo multipliers, and upgrade your vintage plow truck.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
